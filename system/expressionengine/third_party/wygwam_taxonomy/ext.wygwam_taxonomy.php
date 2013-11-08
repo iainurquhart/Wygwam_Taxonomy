@@ -23,7 +23,7 @@ class Wygwam_taxonomy_ext {
 	var $name           = 'Wygwam Taxonomy Links';
 	var $version        = '1.0';
 	var $description    = 'Adds a Taxonomy Link Type to Wygwam’s Link dialog';
-	var $settings_exist = 'y';
+	var $settings_exist = 'n';
 	var $docs_url       = '';
 	var $settings       = array();
 
