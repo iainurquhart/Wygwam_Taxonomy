@@ -118,7 +118,7 @@ class Wygwam_taxonomy_ext {
         		}
 
         		$link = array(
-					'label_depth' => $node['depth']+1,
+					'label_depth' => $node['depth'],
 					'label'       => $node['label'],
 					'url'         => $url
 				);
