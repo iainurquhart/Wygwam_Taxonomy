@@ -16,7 +16,7 @@ if( !function_exists('ee') )
  * 
  * @author    Iain Urquhart <shout@iain.co.nz>
  * @copyright Copyright (c) 2013 Iain Urquhart
- * @license   http://creativecommons.org/licenses/by-sa/3.0/ Attribution-Share Alike 3.0 Unported
+ * @license   MIT - http://opensource.org/licenses/MIT 
  */
 class Wygwam_taxonomy_ext {
 
