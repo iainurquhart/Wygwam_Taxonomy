@@ -10,5 +10,9 @@ Install the extension and you'll see your Trees listed in the Wygwam link dialog
 
 ![Wygwam Link Dialoge](http://f.cl.ly/items/3N2R1J1G052a0l3b2e32/Image%202013.11.09%2011%3A29%3A30%20AM.png)
 
+### Requirements
+
+[Taxonomy 3.x](http://devot-ee.com/add-ons/taxonomy) is required, and any Wygwam version newer than 2.0.1 *should* work as that's when the wygwam_config hook was added.
+
 Copyright (c) 2013 Iain Urquhart
 http://iain.co.nz
